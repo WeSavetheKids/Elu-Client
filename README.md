@@ -1,4 +1,4 @@
-#Elulands
+# Elulands
 
 Elulands is a free, modern, and truly player-driven MMORPG game that integrates a true economic system powered by the Binance Smart Chain.
 
@@ -15,9 +15,15 @@ It is a vacuum for those who can’t see beyond their goals or build the land, g
 The multilevel, open-world gameplay that's part of Elulands is more than the sum of its parts. It's your world, a community, an economy.
 
 Discord: https://elu.gg/discord
+
 Facebook: https://www.facebook.com/Elulands
+
 Instagram: https://www.instagram.com/Elulands
+
 Twitter: https://twitter.com/elulands
+
 Telegram: https://t.me/ElulandsUpdates
+
 Website: https://elulands.com
+
 Whitepaper: https://docs.elulands.com
