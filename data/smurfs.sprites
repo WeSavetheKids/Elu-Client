@@ -1,0 +1,14 @@
+<sprites>
+    <sprite x="117.542236" y="138.982056" z="141.669083" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\여\도둑_여</body>
+        <head>data\sprite\인간족\머리통\여\16_여</head>
+    </sprite>
+    <sprite x="109.143211" y="138.940018" z="138.002548" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\여\도둑_여</body>
+        <head>data\sprite\인간족\머리통\여\11_여</head>
+    </sprite>
+    <sprite x="104.549294" y="138.833267" z="133.737503" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\남\슈퍼노비스_남</body>
+        <head>data\sprite\인간족\머리통\남\17_남</head>
+    </sprite>
+</sprites>
