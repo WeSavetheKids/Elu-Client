@@ -5343,7 +5343,7 @@ JobNameTable = {
 	[jobtbl.JT_NPC_CUSTOM_04] = "farm_b_03_final",
 	[jobtbl.JT_LUMBER_MOB_1] = "lumber_1",
 	[jobtbl.JT_LUMBER_MOB_2] = "lumber_2",
-	[jobtbl.JT_LUMBER_MOB_3] = "lumber_3"
+	[jobtbl.JT_LUMBER_MOB_3] = "lumber_3",
 	[jobtbl.JT_MINING_MOB_1] = "mining1",
 	[jobtbl.JT_MINING_MOB_2] = "mining2"
 }

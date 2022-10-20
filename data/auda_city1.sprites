@@ -1,0 +1,30 @@
+<sprites>
+    <sprite x="195.352051" y="-0.078598" z="133.529907" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\여\기사_여</body>
+        <head>data\sprite\인간족\머리통\여\19_여</head>
+    </sprite>
+    <sprite x="194.414108" y="-0.082098" z="141.583191" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\여\기사_여</body>
+        <head>data\sprite\인간족\머리통\여\10_여</head>
+    </sprite>
+    <sprite x="201.908875" y="-0.085302" z="143.684998" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\여\연금술사_여</body>
+        <head>data\sprite\인간족\머리통\여\13_여</head>
+    </sprite>
+    <sprite x="208.935730" y="-0.080787" z="136.516632" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\남\상인_남</body>
+        <head>data\sprite\인간족\머리통\남\18_남</head>
+    </sprite>
+    <sprite x="213.851486" y="-0.070476" z="128.282669" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\남\도둑_남</body>
+        <head>data\sprite\인간족\머리통\남\18_남</head>
+    </sprite>
+    <sprite x="214.186829" y="-0.088038" z="145.355194" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\여\마법사_여</body>
+        <head>data\sprite\인간족\머리통\여\19_여</head>
+    </sprite>
+    <sprite x="205.945740" y="-0.095166" z="156.218155" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\여\마법사_여</body>
+        <head>data\sprite\인간족\머리통\여\4_여</head>
+    </sprite>
+</sprites>
