@@ -1,0 +1,78 @@
+<sprites>
+    <sprite x="162.488312" y="-0.075683" z="233.995132" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\남\마법사_남</body>
+        <head>data\sprite\인간족\머리통\남\21_남</head>
+    </sprite>
+    <sprite x="167.955948" y="-0.181045" z="263.979065" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\남\프로페서_남</body>
+        <head>data\sprite\인간족\머리통\남\15_남</head>
+    </sprite>
+    <sprite x="168.218994" y="-0.183874" z="261.311371" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\남\연금술사_남</body>
+        <head>data\sprite\인간족\머리통\남\10_남</head>
+    </sprite>
+    <sprite x="163.624969" y="-0.177763" z="260.943542" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\남\연금술사_남</body>
+        <head>data\sprite\인간족\머리통\남\7_남</head>
+    </sprite>
+    <sprite x="163.624969" y="-0.177763" z="260.943542" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\남\프리스트_남</body>
+        <head>data\sprite\인간족\머리통\남\1_남</head>
+    </sprite>
+    <sprite x="169.726990" y="-0.171928" z="260.286713" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\남\태권소년_남</body>
+        <head>data\sprite\인간족\머리통\남\4_남</head>
+    </sprite>
+    <sprite x="172.205490" y="-0.176844" z="260.920929" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\여\상인_여</body>
+        <head>data\sprite\인간족\머리통\여\14_여</head>
+    </sprite>
+    <sprite x="175.211548" y="-0.177982" z="261.059601" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\남\세이지_남</body>
+        <head>data\sprite\인간족\머리통\남\19_남</head>
+    </sprite>
+    <sprite x="173.372818" y="-0.176595" z="265.953949" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\남\챔피온_남</body>
+        <head>data\sprite\인간족\머리통\남\6_남</head>
+    </sprite>
+    <sprite x="164.154633" y="-0.175116" z="268.270386" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\여\팔라딘_여</body>
+        <head>data\sprite\인간족\머리통\여\3_여</head>
+    </sprite>
+    <sprite x="158.885590" y="-0.183729" z="267.172821" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\남\크루세이더_남</body>
+        <head>data\sprite\인간족\머리통\남\8_남</head>
+    </sprite>
+    <sprite x="141.894318" y="-0.183729" z="260.386230" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\남\슈퍼노비스_남</body>
+        <head>data\sprite\인간족\머리통\남\20_남</head>
+    </sprite>
+    <sprite x="175.972809" y="-0.182187" z="266.061829" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\여\하이프리_여</body>
+        <head>data\sprite\인간족\머리통\여\9_여</head>
+    </sprite>
+    <sprite x="181.244049" y="-0.177763" z="267.980896" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\여\소울링커_여</body>
+        <head>data\sprite\인간족\머리통\여\3_여</head>
+    </sprite>
+    <sprite x="185.995743" y="-0.186620" z="265.721741" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\여\헌터_여</body>
+        <head>data\sprite\인간족\머리통\여\1_여</head>
+    </sprite>
+    <sprite x="169.911453" y="-0.188930" z="271.174988" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\남\소울링커_남</body>
+        <head>data\sprite\인간족\머리통\남\7_남</head>
+    </sprite>
+    <sprite x="189.022156" y="-0.186077" z="267.462067" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\남\산타_남</body>
+        <head>data\sprite\인간족\머리통\남\17_남</head>
+    </sprite>
+    <sprite x="188.319931" y="-0.163797" z="259.359039" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\남\초보자_남</body>
+        <head>data\sprite\인간족\머리통\남\6_남</head>
+    </sprite>
+    <sprite x="185.681931" y="-0.176763" z="258.308258" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\남\도둑_남</body>
+        <head>data\sprite\인간족\머리통\남\7_남</head>
+    </sprite>
+</sprites>
